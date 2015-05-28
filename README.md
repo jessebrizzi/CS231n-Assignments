@@ -3,7 +3,7 @@ Completed Assignments for the Convolutional Neural Networks for Visual Recogniti
 Comments have been added to everything that I thought needed further explanation.
 Made this repo public to help anyone else taking the class and needs some guidance. 
 
-### in progress - working on assignment 2
+### in progress - working on assignment 3
 
 ## course website
 http://cs231n.github.io/
